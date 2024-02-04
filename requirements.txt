@@ -7,3 +7,4 @@ tensorflow
 torch
 langchain==0.0.8
 langchain-community==0.0.10
+pydantic==1.9.1
