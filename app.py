@@ -112,10 +112,10 @@ def main():
     # recipe = generate_recipe(ingredients=caption)
     # print(recipe)
 
-    st.title("Image To Recipe 👨🏾‍🍳")
-    st.header("Upload an image and get a recipe")
+    st.title("👨🏾‍🍳 AIKitchen:CNN's Eye for Ingredients, LLM's Language Charm for Recipes.")
+    st.header("Upload an image of All Ingredients and get a recipe")
 
-    upload_file = st.file_uploader("Choose an image:", type=["jpg", "png"])
+    upload_file = st.file_uploader("Choose an image of Ingredients :", type=["jpg", "png"])
 
     if upload_file is not None:
         print(upload_file)
