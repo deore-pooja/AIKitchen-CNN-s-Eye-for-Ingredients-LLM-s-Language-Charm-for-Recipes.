@@ -1,9 +1,9 @@
 openai
 python-dotenv
-langchain
 transformers
 streamlit
 requests
 tensorflow
 torch
-langchain-community
+langchain==0.0.8
+langchain-community==0.0.10
