@@ -7,5 +7,5 @@ tensorflow
 torch
 langchain
 langchain-community
-pydantic
+
 
