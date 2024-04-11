@@ -7,5 +7,6 @@ tensorflow
 torch
 langchain
 langchain-community
+utils
 
 
