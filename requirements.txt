@@ -8,5 +8,6 @@ torch
 langchain
 langchain-community
 utils
+keras
 
 
