@@ -9,5 +9,4 @@ langchain
 langchain-community
 utils
 keras
-
-
+tf-keras
